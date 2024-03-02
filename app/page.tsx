@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Footer from "./landing/footer/page";
+import Footer from "./footer/page";
 
 export default function Home() {
   return (
